@@ -1,4 +1,4 @@
-const { esTextoValido } = require('../utils/helpers');
+const { esTextoValido } = require('../utils/helper');
 
 let incidencias = [];
 let idCounter = 1;

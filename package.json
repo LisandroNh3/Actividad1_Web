@@ -1,0 +1,12 @@
+{
+  "name": "evaluacion-1-progra-web",
+  "version": "1.0.0",
+  "description": "API REST para soporte técnico - UCA",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
